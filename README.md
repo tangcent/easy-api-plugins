@@ -3,14 +3,16 @@ plugin repository of easy-api
 
 ## Install
 
-- [Download](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.jar) the plugin jar and select "Install Plugin From Disk" in IntelliJ's plugin preferences.
+- [Download](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.jar) the plugin jar and select "Install Plugin From Disk" in IntelliJ's plugin preferences.
 
 ## Versions
 
-- [v0.1.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.1.0.jar) support export api from spring to postman
+- [v0.1.0](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.0.1.0.jar) support export api from spring to postman
 
-- [v0.2.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.2.0.jar) update description of plugin
+- [v0.2.0](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.0.2.0.jar) update description of plugin
 
-- [v0.3.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.3.0.jar) enhance efficiency:cache api export result
+- [v0.3.0](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.0.3.0.jar) enhance efficiency:cache api export result
 
-    - [v0.3.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.3.1.jar) enhance efficiency:cache api export result
+    - [v0.3.1](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.0.3.1.jar) enhance efficiency:cache api export result
+
+- [v0.4.0-snapshot](https://github.com/tangcent/easy-api-plugins/raw/snapshot/idea/easy-api.0.4.0.snapshot.jar) support call api from code
