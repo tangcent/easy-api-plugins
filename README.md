@@ -14,3 +14,5 @@ plugin repository of easy-api
 - [v0.3.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.3.0.jar) enhance efficiency:cache api export result
 
     - [v0.3.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.3.1.jar) enhance efficiency:cache api export result
+
+- [v0.4.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.0.jar) support call api from code
