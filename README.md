@@ -18,3 +18,5 @@ plugin repository of easy-api
 - [v0.4.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.0.jar) support call api from code
 
     - [v0.4.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.1.jar) support format json response
+
+    - [v0.4.3](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.3.jar) support request&response header
