@@ -22,3 +22,5 @@ plugin repository of easy-api
     - [v0.4.3](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.3.jar) support request&response header
 
     - [v0.4.4](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.4.jar) support download response
+
+    - [v0.4.5](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.5.jar) support host history
