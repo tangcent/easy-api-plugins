@@ -30,3 +30,6 @@ plugin repository of easy-api
     - [v0.4.7](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.7.jar) support export api as markdown
 
     - [v0.4.8](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.4.8.jar) support post file
+
+    - [v0.5.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.5.0.jar) auto format xml/html response
+                                                                                                set prompt for json response
