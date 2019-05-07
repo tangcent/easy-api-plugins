@@ -33,3 +33,4 @@ plugin repository of easy-api
 
     - [v0.5.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.5.0.jar) auto format xml/html response
                                                                                                 set prompt for json response
+    - [v0.5.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.5.1.jar) fix:optimized the cache
