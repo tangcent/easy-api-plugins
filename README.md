@@ -36,3 +36,5 @@ plugin repository of easy-api
     - [v0.5.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.5.1.jar) fix:optimized the cache
     
  - [v0.6.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.0.jar) support ApiDashBoard
+    
+    - [v0.6.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.1.jar) optimized ui
