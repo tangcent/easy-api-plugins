@@ -39,4 +39,6 @@ plugin repository of easy-api
     
     - [v0.6.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.1.jar) optimized ui
 
-    - [v0.6.2](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.2.jar) fix compatibility
+    - [v0.6.2](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.2.jar) optimized compatibility
+    
+    - [v0.6.3](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.3.jar) Auto fix postman collection info
