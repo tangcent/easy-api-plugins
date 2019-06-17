@@ -52,3 +52,5 @@ plugin repository of easy-api
     - [v0.6.7](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.6.7.jar)
     
  - [v0.7.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.7.0.jar)
+
+    - [v0.7.1](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.7.1.jar)
