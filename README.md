@@ -5,6 +5,8 @@ plugin repository of easy-api
 
 - [Download](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.jar) the plugin jar and select "Install Plugin From Disk" in IntelliJ's plugin preferences.
 
+- IDEA before 2018.1 please [Download](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.x.jar) here
+
 ## Versions
 
 - [v0.1.0](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.1.0.jar)
@@ -70,4 +72,8 @@ plugin repository of easy-api
     - [v0.8.2](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.8.2.jar)
     
     - [v0.8.3](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.8.3.jar)
+    
+    - [v0.8.4](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.8.4.jar)
+    
+    - [v0.8.4x](https://github.com/tangcent/easy-api-plugins/raw/master/idea/easy-api.0.8.4x.jar)
         
